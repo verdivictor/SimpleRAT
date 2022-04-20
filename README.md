@@ -1,4 +1,4 @@
-# RAT-IN-C
+# SimpleRAT
 Remote Access Terminal (simple version) in C. 
 
 
