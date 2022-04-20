@@ -1,5 +1,5 @@
 # SimpleRAT
-Remote Access Terminal (simple version) in C. 
+A simple Remote Access Terminal in C. 
 
 
 A simple Remote Access Terminal for Windows, a client-server program which will open and listen to a socket on the server program, and connect to it from the client.
