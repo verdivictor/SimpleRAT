@@ -6,7 +6,7 @@ A simple Remote Access Terminal for Windows, a client-server program which will 
 
 Usage:
 1. Compile the server and client programs to an .exe
-2. Run server.exe on the server and run the client as administrator. This will create the folder C:/Windows/Panther/setup.exe and will place the important files inside. Now you can run client.exe as a regular user, and it will connect to the server, and you can have achieved remote access, congratulations :^).
+2. Run server.exe on the server and run the client as administrator. This will create the folder C:/Windows/Panther/setup.exe and will place the important files inside. Now you can run client.exe as a regular user, and it will connect to the server, and you have achieved remote access, congratulations :^).
 3. Have fun!
 
 Features:
